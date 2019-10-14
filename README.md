@@ -4,7 +4,7 @@
 ### 1.) Clone the repository to any desired folder
 ### 2.) Copy the path of the repo inside your computer
 ### 3.) Open cmd and type ./python3 ''path'' + CompletePythonPackage.sh
-### 4.) Open cmd and type ./python3 ''path'' + IRSC\ Tes2.py
+### 4.) Open cmd and type ./python3 ''path'' + IRSC\ Test2.py
 
 ## Dependencies
 ### 1.) Numpy
@@ -16,4 +16,4 @@
 ## Testing Details
 ### 1.) Validation Accuracy :  97.2 percent
 ### 2.) Every time the model is used , it is trained on the new output
-### 3.) The algorithm and visualizations are given in the comments. 
+### 3.) The algorithm and visualization details are given in the comments. 
